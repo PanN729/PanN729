@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on DATING with my GIRLFRIEND
 - 🌱 I’m currently learning NOTHING
 - 👯 I’m looking to collaborate on some competitions
-- 📫 How to reach me: don't reach me ![wechat](https://github.com/PanN729/my-website/blob/main/wechat.svg) 
+- 📫 How to reach me: don't reach me 
   
 
 <!--
