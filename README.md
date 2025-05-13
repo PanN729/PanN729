@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning NOTHING
 - 👯 I’m looking to collaborate on some competitions
 - 📫 How to reach me: don't reach me
+- ......just a joke....#07C160
 
 <!--
 **PanN729/PanN729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
