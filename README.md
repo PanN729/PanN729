@@ -1,9 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={HI THERE}&fontSize=90&fontAlign=50&fontAlignY=30&desc={HERE IS PanN}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+    <!-- https://github.com/kyechan99/capsule-render -->
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=here%20is%20PanN&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text={HI THERE}&fontSize=90&fontAlign=50&fontAlignY=70&desc={HERE IS PanN}&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile)](https://git.io/typing-svg)
 - 🔭 I’m currently working on DATING with my GIRLFRIEND
 - 🌱 I’m currently learning NOTHING
