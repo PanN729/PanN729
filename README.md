@@ -13,6 +13,6 @@
 - 🌱 I’m currently learning NOTHING
 - 👯 I’m looking to collaborate on some competitions 求合作求带
 - 📫 How to reach me: don't reach me
--  just a joke...![微博](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E9%BB%84%E7%93%9C%E6%8B%8C%E9%B8%A1%E7%88%AA-blue?style=flat-square&link=https%3A%2F%2Fweibo.com%2Fu%2F2719078007)
+-  just a joke...[![微博](https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E9%BB%84%E7%93%9C%E6%8B%8C%E9%B8%A1%E7%88%AA-blue?style=flat-square&link=https%3A%2F%2Fweibo.com%2Fu%2F2719078007)](https://www.weibo.com/u/2719078007)
 - ![PanN729's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanN729&theme=catppuccin_latte_icons=true)
   
