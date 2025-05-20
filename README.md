@@ -3,6 +3,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=here%20is%20PanN&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 
+[![微博](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://weibo.com/u/2719078007)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+github+profile)](https://git.io/typing-svg)
 - 🔭 I’m currently working on DATING with my GIRLFRIEND
 - 🌱 I’m currently learning NOTHING
